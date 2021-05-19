@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Brinks0211
-- 👀 I’m interested in python and psycholygy
+- 👀 I’m interested in python and psychology
 - 🌱 I’m currently learning python and psychopy
 - 📫 How to reach me :zhangyihao0211@163.com
 
